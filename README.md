@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Em-L-Chomba
-- 👀 I’m interested in Web Development/Coding
-- 🌱 I’m currently learning JavaScript.
-- 📫 How to reach me:
-      * https://www.reddit.com/u/Em_L_Chomba
+- 👀 I’m interested in Programming and my journey started in 2020.
+- 🌱 I’m currently learning Computer Science
